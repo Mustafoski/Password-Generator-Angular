@@ -28,3 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 "# Password-Generator-Angular" 
 "# Password-Generator-Angular-1" 
 # Password-Generator-Angular-1
+"# Password-Generator-Angular-1" 
